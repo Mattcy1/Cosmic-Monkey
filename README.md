@@ -7,7 +7,7 @@
 
 <h1 align="center">CosmicMonkey</h1>
 
-This mod adds the cosmic monkey
+This mod add the cosmic monkey
 
 <h1 aling="left"><img alt="GitHub all releases" height="25" src="https://img.shields.io/github/downloads/Mattcy1/Cosmic-Monkey/total?label=Total%20Dowloads"></h1>
 
