@@ -6,7 +6,7 @@
         public const string Version = "1.2";
         public const string Name = "Cosmic Monkey";
         public const string Description =
-            "Adds in a new custom tower themed around galaxy. Also Check Out My Youtube Channel Its MattcyYT with the litte orange and blue icon thanks!";
+            "Adds in a new custom tower themed around galaxy.";
 
         public const string RepoOwner = "Mattcy1";
         public const string RepoName = "Cosmic-monkey";
